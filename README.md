@@ -6,12 +6,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Eduardo-BL&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=10px"/>
 <div>
 
-<div>
-  <img aling="center" alt="Dudu-Arduino" heigth="15px" whidth="20px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg">
-  <img aling="center" alt="Dudu-Css" heigth="15px" whidth="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-  <img aling="center" alt="Dudu-Html" heigth="15px" whidth="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  <img aling="center" alt="Dudu-Java" heigth="15px" whidth="20px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-</div>
+<!-- <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg" heigth="10" whidth="20">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" heigth="15" whidth="20">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" heigth="15" whidth="20">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" heigth="15" whidth="20">
+</div> -->
 
 ##
 
