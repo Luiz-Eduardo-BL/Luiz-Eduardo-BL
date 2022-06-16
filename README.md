@@ -1,16 +1,24 @@
-### Hi there 👋
+## Prazer!!! Eu sou o Luiz Eduardo
 
-<!--
-**Luiz-Eduardo-BL/Luiz-Eduardo-BL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="http://github.com/Luiz-Eduardo-BL">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-BL&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Eduardo-BL&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=10px"/>
+<div>
 
-Here are some ideas to get you started:
+<div>
+  <img aling="center" alt="Dudu-Arduino" heigth="15px" whidth="20px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg">
+  <img aling="center" alt="Dudu-Css" heigth="15px" whidth="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img aling="center" alt="Dudu-Html" heigth="15px" whidth="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img aling="center" alt="Dudu-Java" heigth="15px" whidth="20px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="https://www.instagram.com/lima_ofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luizedu@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://getfedora.org/pt_BR/" target="_blank"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" target="_blank"></a> 
+  <a href="https://t.me/Dudu_Lima" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  
+</div>
