@@ -8,7 +8,7 @@ Sou um estudante de Engenharia de Software com uma paixão pelo desenvolvimento 
 
 ## Projetos
 
-Alguns dos projectos que encontrarão no meu repositório incluem:
+Alguns dos projetos que encontrarão no meu repositório incluem:
 
 * Aplicações Web utilizando HTML, CSS, JavaScript e React
 * Desenvolvimento de jogos usando Gdscrip
