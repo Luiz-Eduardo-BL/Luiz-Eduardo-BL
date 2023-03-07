@@ -1,6 +1,6 @@
 ## Prazer!!! Eu sou o Luiz Eduardo
 
-Bem-vindo à minha conta GitHub! Aqui encontrará uma coleção dos meus projectos pessoais, contribuições para projectos de código aberto, e materiais de aprendizagem relacionados com a informática e a programação.
+Bem-vindo à minha conta GitHub! Aqui encontrará uma coleção dos meus projetos pessoais, contribuições para projetos de código aberto, e materiais de aprendizagem relacionados com a informática e a programação.
 
 ## Sobre Mim
 
