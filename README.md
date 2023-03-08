@@ -35,6 +35,11 @@ Sinta-se à vontade para explorar o meu repositório e utilizar qualquer materia
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-BL&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Eduardo-BL&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=10px"/>
 </div> -->
+<div align="center">
+  <a href="http://github.com/Luiz-Eduardo-BL">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-BL&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Eduardo-BL&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=10px"/>
+</div>
 
 ##
 
