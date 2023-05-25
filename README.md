@@ -28,7 +28,7 @@ Tenho um forte interesse em contribuir para projetos de código aberto, particul
 
 Sinta-se à vontade para explorar o meu repositório e utilizar qualquer material ou código que considere útil. Estou sempre a trabalhar em novos projetos e a explorar novas tecnologias, por isso não se esqueça de verificar frequentemente por atualizações! Obrigado pela sua visita, e estou ansioso por me ligar a outros programadores e contribuir para a comunidade de código-fonte aberto.
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Luiz-Eduardo-BL&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Eduardo-BL&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="http://github.com/luiz-eduardo-bl">
