@@ -11,10 +11,28 @@ Sou um estudante de Engenharia de Software com uma paixão pelo desenvolvimento 
 
 Alguns dos projetos que encontrarão no meu repositório incluem:
 
-* Aplicações Web utilizando HTML, CSS, JavaScript e React
-* Desenvolvimento de jogos usando Gdscrip
-* Desenvolvimento de aplicações móveis utilizando Flutter
-* Aplicações desenvolvidas com Java
+## Mobile 📱
+
+  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=0D1117)&nbsp;
+- [QuixHouse](https://github.com/Luiz-Eduardo-BL/QuixHouse)
+- [Motora](https://github.com/Luiz-Eduardo-BL/Motora)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=0D1117)&nbsp;
+- [AcademiaUFC](https://github.com/Luiz-Eduardo-BL/AcademiaUFC)
+- [Todo_List](https://github.com/Luiz-Eduardo-BL/Todo_List)
+
+## Web 🌐
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%2302569B.svg?style=for-the-badge&logo=JavaScript&logoColor=0D1117)&nbsp;
+- [Calculadora_IMC](https://github.com/Luiz-Eduardo-BL/Calculadora_IMC)
+- [Teste-IpDelve](https://github.com/Luiz-Eduardo-BL/Teste-IpDelve)
+- [Agregador_de_Links](https://github.com/Luiz-Eduardo-BL/Agregador_de_Links)
+
+## Games 🎮
+
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=0D1117)&nbsp;
+- [Dodge_the_creeps](https://github.com/Luiz-Eduardo-BL/Dodge_the_creeps)
+
 
 ### Estudando no Momento:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=0D1117)&nbsp;
@@ -34,8 +52,8 @@ Sinta-se à vontade para explorar o meu repositório e utilizar qualquer materia
 
 <div align="center">
   <a href="http://github.com/luiz-eduardo-bl">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luiz-eduardo-bl&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-eduardo-bl&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=10px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiz-eduardo-bl&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-eduardo-bl&layout=compact&langs_count=7&theme=discord_old_blurple&border_radius=10px"/>
 </div>
 
 ##
