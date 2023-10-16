@@ -14,24 +14,32 @@ Alguns dos projetos que encontrarão no meu repositório incluem:
 ## Mobile 📱
 
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=0D1117)&nbsp;
-- [QuixHouse](https://github.com/Luiz-Eduardo-BL/QuixHouse)
-- [Motora](https://github.com/Luiz-Eduardo-BL/Motora)
+- [QuixHouse](https://github.com/Luiz-Eduardo-BL/QuixHouse):
+  - Uma aplicação que ajuda estudantes em Quixadá a encontrar e anunciar vagas em imóveis. 
+- [Motora](https://github.com/Luiz-Eduardo-BL/Motora):
+  - Uma aplicação voltada para o contexto escolar, que facilita a aplicação de protocolos de avaliação física. 
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=0D1117)&nbsp;
-- [AcademiaUFC](https://github.com/Luiz-Eduardo-BL/AcademiaUFC)
-- [Todo_List](https://github.com/Luiz-Eduardo-BL/Todo_List)
+- [AcademiaUFC](https://github.com/Luiz-Eduardo-BL/AcademiaUFC):
+  - Uma aplicação que ajuda estudantes da UFC a acompanhar e visualizar o progresso em relação às disciplinas de seus cursos. 
+- [Todo_List](https://github.com/Luiz-Eduardo-BL/Todo_List):
+  - Uma aplicação de lista de tarefas simples, ele permite que o usuário adicione, edite e exclua tarefas, mostrando a data e hora da criação de cada uma. 
 
 ## Web 🌐
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2302569B.svg?style=for-the-badge&logo=JavaScript&logoColor=0D1117)&nbsp;
-- [Calculadora_IMC](https://github.com/Luiz-Eduardo-BL/Calculadora_IMC)
+- [Calculadora_IMC](https://github.com/Luiz-Eduardo-BL/Calculadora_IMC):
+  - Uma aplicação web que calcula o índice de massa corporal (IMC) de uma pessoa, usando HTML, CSS e JavaScript. 
 - [Teste-IpDelve](https://github.com/Luiz-Eduardo-BL/Teste-IpDelve)
-- [Agregador_de_Links](https://github.com/Luiz-Eduardo-BL/Agregador_de_Links)
+  - Uma aplicação web que utiliza a API do Rick and Morty para planejar viagens no universo da série.
+- [Agregador_de_Links](https://github.com/Luiz-Eduardo-BL/Agregador_de_Links):
+  - Uma aplicação web que facilita a criação e o compartilhamento de links personalizados.
 
 ## Games 🎮
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=0D1117)&nbsp;
-- [Dodge_the_creeps](https://github.com/Luiz-Eduardo-BL/Dodge_the_creeps)
+- [Dodge_the_creeps](https://github.com/Luiz-Eduardo-BL/Dodge_the_creeps):
+  - Um jogo de desviar dos inimigos feito com GDScript e Godot. 
 
 
 ### Estudando no Momento:
