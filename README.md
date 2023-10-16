@@ -44,9 +44,10 @@ Alguns dos projetos que encontrarão no meu repositório incluem:
 
 ## Contribuições
 
-Tenho um forte interesse em contribuir para projetos de código aberto, particularmente dentro da comunidade Linux e Android, que são os sistemas pelo qual tenho uma grande paixão. Embora ainda não tenha feito qualquer contribuição e não tenha tanto conhecimento tecnico, procuro ativamente oportunidades para o fazer e estou entusiasmado por colaborar com outros programadores em projetos significativos. Se tiver alguma sugestão ou conhecer algum projeto que possa beneficiar das minhas competências, por favor não hesite em contactar-me!
+Tenho um forte interesse em contribuir para projetos de código aberto, particularmente dentro da comunidade Linux e Android, que são os sistemas pelo qual tenho uma grande paixão. Embora ainda não tenha feito qualquer contribuição e não tenha tanto conhecimento tecnico, procuro ativamente oportunidades para o fazer e estou entusiasmado por colaborar com outros programadores em projetos significativos. Se tiver alguma sugestão ou conhecer algum projeto que possa 
+ se beneficiar das minhas competências, por favor não hesite em contactar-me!
 
-Sinta-se à vontade para explorar o meu repositório e utilizar qualquer material ou código que considere útil. Estou sempre a trabalhar em novos projetos e a explorar novas tecnologias, por isso não se esqueça de verificar frequentemente por atualizações! Obrigado pela sua visita, e estou ansioso por me ligar a outros programadores e contribuir para a comunidade de código-fonte aberto.
+Sinta-se à vontade para explorar o meu repositório e utilizar qualquer material ou código que considere útil. Estou sempre a trabalhar em novos projetos e a explorar novas tecnologias, por isso não se esqueça de verificar frequentemente por atualizações! Obrigado pela sua visita, e estou ansioso por me ligar a outros programadores e contribuir para a comunidade de código aberto.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Eduardo-BL&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
