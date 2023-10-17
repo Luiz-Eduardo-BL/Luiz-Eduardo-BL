@@ -1,15 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Luiz+Eduardo;Tenho+23+Anos;Sou+Natural+de+Floriano,+PI;Estudo+Engenharia+de+Software+na+UFC-Quixada;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<img src="/Background.gif" />
 
-
-## Sobre Mim
-
-Sou um estudante de Engenharia de Software com uma paixão pelo desenvolvimento de software e tecnologia. Gosto de trabalhar em projetos que me desafiam e me levam a aprender novas competências. As minhas áreas de interesse incluem desenvolvimento web, desenvolvimento mobile, e desenvolvimento de games.
-
-## Projetos
-
-Alguns dos projetos que encontrarão no meu repositório incluem:
+## Olá!
+Me chamo Luiz Eduardo, sou um estudante de Engenharia de Software, com uma paixão pelo desenvolvimento de software e tecnologia. Gosto de trabalhar em projetos que me desafiam e me levam a aprender novas competências. As minhas áreas de interesse incluem desenvolvimento web, desenvolvimento mobile, e desenvolvimento de games, meus principais projetos são:
 
 ## Mobile 📱
 
@@ -73,7 +65,4 @@ Sinta-se à vontade para explorar o meu repositório e utilizar qualquer materia
   <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=0D1117&style=for-the-badge" target="_blank"></a> 
   <a href="https://t.me/Dudu_Lima" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=0D1117" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/luiz-eduardo-borges-de-lima-731142212/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=0D1117" target="_blank"></a> 
-</div>
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
- 
+</div> 
