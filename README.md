@@ -5,11 +5,13 @@ Me chamo Luiz Eduardo, sou um estudante de Engenharia de Software, com uma paix�
 
 ## Mobile 📱
 
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=0D1117)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=0D1117)&nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=0D1117)&nbsp;
 - [QuixHouse](https://github.com/Luiz-Eduardo-BL/QuixHouse):
-  - Uma aplicação que ajuda estudantes em Quixadá a encontrar e anunciar vagas em imóveis. 
+  - Uma aplicação que ajuda estudantes em Quixadá a encontrar e anunciar vagas em imóveis. 🏡
 - [Motora](https://github.com/Luiz-Eduardo-BL/Motora):
-  - Uma aplicação voltada para o contexto escolar, que facilita a aplicação de protocolos de avaliação física. 
+  - Uma aplicação voltada para o contexto escolar, que facilita a aplicação de protocolos de avaliação física. 💪🏾
+- [Eficienacia Energetica](https://github.com/Luiz-Eduardo-BL/Projeto-de-Eficiencia-Energetica):
+  - Uma aplicação para a Justiça Federal, voltada à medição da eficiência energética do ambiente. 😉🔌
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=0D1117)&nbsp;
 - [AcademiaUFC](https://github.com/Luiz-Eduardo-BL/AcademiaUFC):
