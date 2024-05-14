@@ -1,12 +1,11 @@
 <img src="/assets/Background.gif" />
 
-<div style="display: inline_block">
-
 <h1 align="left">🧑🏿‍💻 Sobre mim:</h1>
+
+<br>
 
 <img align="right" width="200px" src="/assets/Ilustração - PessoaFoneOculosRosa.png">
 
-</br>
  Olá, meu nome é Luiz Eduardo, mas pode me chamar de Dudu. Sou estudante de Engenharia de Software e um entusiasta do desenvolvimento mobile. Minha paixão por tecnologia se estende ao mundo do Linux, sistema que admiro pela sua flexibilidade e robustez. Além de me dedicar aos estudos e projetos desafiadores, também compartilho minha jornada de desenvolvimento no TikTok, criando conteúdo que inspira e educa outros desenvolvedores. A cada novo projeto, busco não apenas aprimorar minhas habilidades técnicas, mas também contribuir para a comunidade de tecnologia.
 </br>
 </br>
@@ -14,7 +13,6 @@
 - 📧 Como entrar em contato comigo: <luizedu@alu.ufc.br>
 - 💡 Curiosidade: Sou apaixonada por Musica, Café e Linux.
 
-</br>
 </br>
 
 <div style="display: inline_block">
