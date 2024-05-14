@@ -58,7 +58,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Eduardo-BL&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div >
+<div align="center">
   <a href="http://github.com/luiz-eduardo-bl">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiz-eduardo-bl&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-eduardo-bl&hide=python&layout=compact&langs_count=8&theme=discord_old_blurple&border_radius=10px"/>
