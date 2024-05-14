@@ -17,7 +17,7 @@ Me chamo Luiz Eduardo, sou um estudante de Engenharia de Software, com uma paix�
 - [AcademiaUFC](https://github.com/Luiz-Eduardo-BL/AcademiaUFC):
   - Uma aplicação que ajuda estudantes da UFC a acompanhar e visualizar o progresso em relação às disciplinas de seus cursos. 
 - [Todo_List](https://github.com/Luiz-Eduardo-BL/Todo_List):
-  - Uma aplicação de lista de tarefas simples, ele permite que o usuário adicione, edite e exclua tarefas, mostrando a data e hora da criação de cada uma. 
+  - Uma aplicação de lista de tarefas simples, ele permite que o usuário adicione, edite e exclua tarefas, mostrando a data e hora da criação de cada uma.
 
 ## Web 🌐
 
@@ -62,9 +62,10 @@ Sinta-se à vontade para explorar o meu repositório e utilizar qualquer materia
 ##
 
 <div align="center">
-  <a href="https://www.instagram.com/lima_ofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=0D1117" target="_blank"></a>
-  <a href = "mailto:luizedu@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=0D1117" target="_blank"></a>
-  <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=0D1117&style=for-the-badge" target="_blank"></a> 
-  <a href="https://t.me/Dudu_Lima" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=0D1117" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/luiz-eduardo-borges-de-lima-731142212/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=0D1117" target="_blank"></a> 
+  <a href="https://www.instagram.com/lima_ofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.tiktok.com/@um.simples.dev/" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luizedu@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" target="_blank"></a> 
+  <a href="https://t.me/Dudu_Lima" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/luiz-eduardo-borges-de-lima-731142212/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
